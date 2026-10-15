@@ -1,0 +1,20 @@
+# Vivado 常用忽略规则
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.Xil/
+*.jou
+*.log
+*.str
+*.zip
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+.claude/

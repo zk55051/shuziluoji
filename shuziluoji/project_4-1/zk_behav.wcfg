@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="to_zk_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="to_zk" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="5219fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="94"></NameColumnWidth>
+      <ValueColumnWidth column_width="86"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/to_zk/A" type="array">
+      <obj_property name="ElementShortName">A[1:0]</obj_property>
+      <obj_property name="ObjectShortName">A[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/to_zk/B" type="array">
+      <obj_property name="ElementShortName">B[1:0]</obj_property>
+      <obj_property name="ObjectShortName">B[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/to_zk/C" type="array">
+      <obj_property name="ElementShortName">C[1:0]</obj_property>
+      <obj_property name="ObjectShortName">C[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/to_zk/D" type="array">
+      <obj_property name="ElementShortName">D[1:0]</obj_property>
+      <obj_property name="ObjectShortName">D[1:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/to_zk/S" type="array">
+      <obj_property name="ElementShortName">S[1:0]</obj_property>
+      <obj_property name="ObjectShortName">S[1:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/to_zk/EN" type="logic">
+      <obj_property name="ElementShortName">EN</obj_property>
+      <obj_property name="ObjectShortName">EN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/to_zk/Y" type="array">
+      <obj_property name="ElementShortName">Y[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Y[1:0]</obj_property>
+   </wvobject>
+</wave_config>
